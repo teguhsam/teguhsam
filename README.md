@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Data Engineer with 4 years of work experience<br>I am currently learning Large Scale Data Architecture and snowflake
+I am a Data Engineer with 4 years of work experience<br>I am currently learning Large Scale Data Architecture and Snowflake
 
 
 ## 🌐 Socials:
