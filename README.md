@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Data Engineer with 4 years of work experience<br>I am currently learning Large Scale Data Architecture and Snowflake
+I am a Data Engineer with 4 years of work experience.<br>I am currently learning AI Engineering
 
 
 ## 🌐 Socials:
@@ -7,11 +7,17 @@ I am a Data Engineer with 4 years of work experience<br>I am currently learning 
 
 # 💻 Tech Stack:
 
-Language ➡️ Go | Python | R
+Language ➡️ Python | SQL | Go | R
+
+Data Engineering ➡️ Apache Airflow | dbt | Snowflake | Postgres 
+
 Cloud ➡️ AWS | Azure
+
 Visualization ➡️ Power BI | Tableau | Grafana | D3.js
+
 Frontend ➡️ TypeScript | JavaScript | React
-DevOps ➡️ Docker | Git
+
+DevOps ➡️ Docker | Git | CI/CD
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=teguhsam&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
