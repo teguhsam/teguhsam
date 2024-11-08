@@ -19,7 +19,7 @@ Frontend ➡️ TypeScript | JavaScript | React
 
 DevOps ➡️ Docker | Git | CI/CD
 
-AI ➡️ OpenAI | Anthropic | Gemini | Gradio
+AI ➡️ OpenAI | Anthropic | Gemini | Gradio | HuggingFace
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teguhsam&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
