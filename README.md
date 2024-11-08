@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Data Engineer with 4 years of work experience.<br>I am currently learning AI Engineering
+I am a Software and Data Engineer with 4 years of work experience.<br>I am currently learning AI Engineering
 
 
 ## 🌐 Socials:
