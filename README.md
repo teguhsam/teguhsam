@@ -7,21 +7,21 @@ I am a Software and Data Engineer with 4 years of work experience.<br>I am curre
 
 # 💻 Tech Stack:
 
-Language ➡️ Python | SQL | Go | R
+**Language**                  Python | SQL | Go | R
 
-Data Engineering ➡️ Apache Airflow | dbt 
+**Data Engineering**          Apache Airflow | dbt 
 
-Databases & Warehouses ➡️ Postgres | Snowflake | MySQL
+**Databases & Warehouses**    Postgres | Snowflake | MySQL
 
-Cloud ➡️ AWS | Azure
+**Cloud**                     AWS | Azure
 
-Visualization ➡️ Power BI | Tableau | Grafana | D3.js
+**Visualization**             Power BI | Tableau | Grafana | D3.js
 
-Frontend ➡️ TypeScript | JavaScript | React
+**Frontend**                  TypeScript | JavaScript | React
 
-DevOps ➡️ Docker | Git | CI/CD
+**DevOps**                    Docker | Git | CI/CD
 
-AI ➡️ OpenAI | Anthropic | Gemini | Gradio | HuggingFace
+**AI**                        OpenAI | Anthropic | Gemini | Gradio | HuggingFace
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teguhsam&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
