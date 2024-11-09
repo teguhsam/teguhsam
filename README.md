@@ -9,7 +9,9 @@ I am a Software and Data Engineer with 4 years of work experience.<br>I am curre
 
 Language ➡️ Python | SQL | Go | R
 
-Data Engineering ➡️ Apache Airflow | dbt | Snowflake | Postgres 
+Data Engineering ➡️ Apache Airflow | dbt 
+
+Databases & Warehouses ➡️ Postgres | Snowflake | MySQL
 
 Cloud ➡️ AWS | Azure
 
