@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software and Data Engineer with 4 years of work experience.<br>I am currently learning AI Engineering
+I am a Software and Data Engineer with 4 years of work experience.<br>I am currently learning AI and LLM Engineering
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ I am a Software and Data Engineer with 4 years of work experience.<br>I am curre
 
 **Databases & Warehouses** ➡️ Postgres | Snowflake | MySQL
 
-**Cloud** ➡️ AWS | Azure
+**Cloud** ➡️ AWS | Azure | GCP
 
 **Visualization** ➡️ Power BI | Tableau | Grafana | D3.js
 
