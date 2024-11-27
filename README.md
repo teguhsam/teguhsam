@@ -21,7 +21,7 @@ I am a Software and Data Engineer with 4 years of work experience.<br>I am curre
 
 **DevOps** ➡️ Docker | Git | CI/CD
 
-**AI** ➡️ OpenAI | Anthropic | Gemini | Gradio | HuggingFace
+**AI** ➡️ OpenAI | Anthropic | Gemini | Gradio | HuggingFace | RAG
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teguhsam&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
