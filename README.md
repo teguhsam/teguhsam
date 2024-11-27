@@ -15,11 +15,11 @@ I am a Software and Data Engineer with 4 years of work experience.<br>I am curre
 
 **Cloud** ➡️ AWS | Azure | GCP
 
-**Visualization** ➡️ Power BI | Tableau | Grafana | D3.js
+**Visualization** ➡️ Power BI | Tableau | D3.js
 
 **Frontend** ➡️ TypeScript | JavaScript | React
 
-**DevOps** ➡️ Docker | Git | CI/CD
+**DevOps** ➡️ Docker | Git | CI/CD | Grafana
 
 **AI** ➡️ OpenAI | Anthropic | Gemini | Gradio | HuggingFace | RAG
 
