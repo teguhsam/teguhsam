@@ -7,7 +7,7 @@ I am a Software and Data Engineer with 4 years of work experience.<br>I am curre
 
 # 💻 Tech Stack:
 
-**Language** ➡️ Python | SQL | Go | R
+**Language** ➡️ Python | SQL | Go | TypeScript | JavaScript | R
 
 **Data Engineering** ➡️ Apache Airflow | dbt 
 
@@ -17,7 +17,7 @@ I am a Software and Data Engineer with 4 years of work experience.<br>I am curre
 
 **Visualization** ➡️ Power BI | Tableau | D3.js
 
-**Frontend** ➡️ TypeScript | JavaScript | React
+**Web App & Frontend** ➡️ React | Django
 
 **DevOps** ➡️ Docker | Git | CI/CD | Grafana
 
