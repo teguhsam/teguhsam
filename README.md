@@ -11,7 +11,7 @@ I am a Software and Data Engineer with 4 years of work experience.<br>I am curre
 
 **Data Engineering** ➡️ Apache Airflow | dbt 
 
-**Databases & Warehouses** ➡️ Postgres | Snowflake | MySQL
+**Databases & Warehouses** ➡️ Postgres | Snowflake | MySQL | SQLite
 
 **Cloud** ➡️ AWS | Azure | GCP
 
