@@ -17,7 +17,7 @@ I am a Software and Data Engineer with 4 years of work experience.<br>I am curre
 
 **Visualization** ➡️ Power BI | Tableau | D3.js
 
-**Web App & Frontend** ➡️ React | Django | Tailwind
+**Web App & Frontend** ➡️ React | Django | TailwindCSS | HTML | CSS
 
 **DevOps** ➡️ Docker | Git | CI/CD | Grafana
 
